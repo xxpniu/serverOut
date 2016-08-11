@@ -1,4 +1,3 @@
-cd ./Server/GServer/
 
 mono ./LoginServer/LoginServer.exe 1900 1800 127.0.0.1 Game_Account_DB root 54249636 >../LoginServer.txt&
 echo "LoginServer started"
