@@ -1,9 +1,9 @@
 {
-	"ListenPort":1700,
+	"ListenPort":2200,
 	"Host":"ec2-52-41-212-129.us-west-2.compute.amazonaws.com",
-	"ServicePort":2000,
+	"ServicePort":1401,
 	"LoginServerHost":"127.0.0.1",
-	"LoginServerPort":"1800",
+	"LoginServerPort":"1400",
 	"DBHost":"127.0.0.1",
 	"DBName":"game_db",
 	"DBUser":"root",

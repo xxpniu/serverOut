@@ -1,0 +1,8 @@
+{
+	"Port":2200,
+	"LoginServerProt":1200,
+	"LoginServerHost":"127.0.0.1",
+	"ServiceHost":"ec2-52-41-212-129.us-west-2.compute.amazonaws.com",
+	"MaxBattle":1000,
+	"ConfigRoot":"../"
+}
