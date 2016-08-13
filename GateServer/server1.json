@@ -4,7 +4,7 @@
 	"ServicePort":1401,
 	"ServiceHost":"127.0.0.1",
 	"LoginServerHost":"127.0.0.1",
-	"LoginServerPort":"1400",
+	"LoginServerPort":1400,
 	"DBHost":"127.0.0.1",
 	"DBName":"game_db",
 	"DBUser":"root",

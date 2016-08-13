@@ -1,6 +1,6 @@
 {
 	"ListenPort":2100,
-	"ServicePort":1200,
+	"ServicePort":1400,
 	"DBHost":"127.0.0.1",
 	"DBName":"game_account_db",
 	"DBUser":"root",
