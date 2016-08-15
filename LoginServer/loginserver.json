@@ -4,5 +4,6 @@
 	"DBHost":"127.0.0.1",
 	"DBName":"game_account_db",
 	"DBUser":"root",
-	"DBPwd":"54249636"
+	"DBPwd":"54249636",
+	"Log":true
 }
