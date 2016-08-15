@@ -1,0 +1,14 @@
+{
+    "ListenPort":2100,
+    "Host":"127.0.0.1", 
+    "ServicePort":1800,
+    "ServiceHost":"ec2-52-41-212-129.us-west-2.compute.amazonaws.com",
+    "LoginServerHost":"127.0.0.1",
+    "LoginServerPort":1400,
+    "DBHost":"127.0.0.1",
+    "DBName":"game_db",
+    "DBUser":"root",
+    "DBPwd":"54249636",
+    "ServerID":"1",
+    "ConfigPath":"../",
+}
