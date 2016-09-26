@@ -13,11 +13,11 @@
           <name>查找目标</name>
           <guid>452c76fb-e004-456a-8944-1720c0cc3c2a</guid>
           <valueOf>Value</valueOf>
-          <Distance>30</Distance>
+          <Distance>1000</Distance>
           <saveType>SkillReleaseTarget</saveType>
           <selectType>Nearest</selectType>
           <filter>None</filter>
-          <useMagicConfig>false</useMagicConfig>
+          <useMagicConfig>true</useMagicConfig>
           <teamType>Enemy</teamType>
           <findNew>true</findNew>
         </TreeNode>
