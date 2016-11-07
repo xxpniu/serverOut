@@ -19,4 +19,6 @@
       </effectGroup>
     </EventContainer>
   </Containers>
+  <triggerTicksTime>-1</triggerTicksTime>
+  <triggerDurationTime>-1</triggerDurationTime>
 </MagicData>
